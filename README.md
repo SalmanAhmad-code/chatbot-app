@@ -189,19 +189,11 @@ node server.js
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## 🙏 Acknowledgments
 
 - [Hugging Face](https://huggingface.co/) for providing excellent AI models
 - [Stable Diffusion](https://stability.ai/) for the image generation model
 - [OpenAI](https://openai.com/) for the chat completion API
-
-## 📞 Support
-
-If you have any questions or issues, please open an issue on GitHub or contact the development team.
 
 ---
 
