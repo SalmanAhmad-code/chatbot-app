@@ -15,7 +15,7 @@ app.use(express.static(__dirname));
 
 const client = new OpenAI({
   baseURL: "https://router.huggingface.co/v1",
-  apiKey: "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",
+  apiKey: "SECRET_KEY_HERE",
 });
 
 // Store conversation history for each session
