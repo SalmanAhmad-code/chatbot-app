@@ -24,7 +24,7 @@ A modern, full-featured AI chatbot that combines intelligent conversation with i
 1. **Clone or download the project**
    ```bash
    git clone https://github.com/SalmanAhmad-code/chatbot-app
-   cd jacob-test-proj
+   cd chatbot-app
    ```
 
 2. **Install dependencies**
