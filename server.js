@@ -18,7 +18,7 @@ app.use(express.static(__dirname));
 
 const client = new OpenAI({
   baseURL: "https://router.huggingface.co/v1",
-  apiKey: "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",
+  apiKey: "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",
 });
 
 // Store conversation history for each session
@@ -153,7 +153,7 @@ app.post("/chat", async (req, res) => {
         const imageResponse = await fetch("https://api-inference.huggingface.co/models/stabilityai/stable-diffusion-xl-base-1.0", {
           method: "POST",
           headers: {
-            "Authorization": `Bearer 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`,
+            "Authorization": `Bearer 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`,
             "Content-Type": "application/json",
           },
           body: JSON.stringify({
